@@ -12,7 +12,9 @@ This project analyzes sales data to uncover valuable business insights, includin
 -Sales trends over time
 
 -Demographic analysis of customers
-![images](https://github.com/user-attachments/assets/5b412f9e-b59e-486c-bf25-7f948d7fa770)
+
+![retail_1830051c](https://github.com/user-attachments/assets/6936cd51-8532-4415-9bd1-a0ece4fa7c95)
+
 
 ## Getting Started
 Prerequisites
@@ -35,38 +37,28 @@ Installation & Setup
 
 ## Key Business Insights
 
-1. Top 5 Selling Products
-Identified the most in-demand products to prioritize stock and targeted promotions.
+1. Top 5 Selling Products: Identified the most in-demand products to prioritize stock and targeted promotions.
 
-2. Frequently Cancelled Products
-Found products with high cancellation rates to address quality or description issues.
+2. Frequently Cancelled Products: Found products with high cancellation rates to address quality or description issues.
 
-3. Peak Sales Times
-Determined the time of day with highest purchases to optimize staffing and promotions.
+3. Peak Sales Times: Determined the time of day with highest purchases to optimize staffing and promotions.
 
-4. Highest Spending Customers
-Identified VIP customers for personalized offers and loyalty rewards.
+4. Highest Spending Customers: Identified VIP customers for personalized offers and loyalty rewards.
 
-5. Highest Revenue Categories
-Discovered top-performing product categories to refine product strategy.
+5. Highest Revenue Categories: Discovered top-performing product categories to refine product strategy.
 
-6. Cancellation/Return Rates
-Monitored dissatisfaction trends to reduce returns and improve products.
+6. Cancellation/Return Rates: Monitored dissatisfaction trends to reduce returns and improve products.
 
-7. Preferred Payment Methods
-Understood customer payment preferences to streamline processing.
+7. Preferred Payment Methods: Understood customer payment preferences to streamline processing.
 
-8. Age-Based Purchasing Behavior
-Analyzed purchasing patterns across age groups for targeted marketing.
+8. Age-Based Purchasing Behavior: Analyzed purchasing patterns across age groups for targeted marketing.
 
-9. Monthly Sales Trends
-Tracked sales fluctuations to plan inventory and seasonal marketing.
+9. Monthly Sales Trends: Tracked sales fluctuations to plan inventory and seasonal marketing.
 
-10. Gender-Based Preferences
-Identified product preferences by gender for personalized advertising.
+10. Gender-Based Preferences: Identified product preferences by gender for personalized advertising.
 
 
-##Future Enhancements
+## Future Enhancements
 
 -Create visualizations using Power BI/Tableau
 
@@ -80,3 +72,10 @@ Identified product preferences by gender for personalized advertising.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## About Me
+
+Hi there! I'm **Shoaib Dyre**, an aspiring Data Analyst passionate about transforming raw data into meaningful insights. This GitHub repository showcases my journey in learning data analysis, including projects, SQL queries and analytic reposts.
+
+   Curious about data – I love exploring datasets, finding patterns, and telling stories through numbers.
+
