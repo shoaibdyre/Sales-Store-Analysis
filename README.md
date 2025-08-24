@@ -1,4 +1,5 @@
 # Sales Store Analysis(SQL)
+A comprehensive SQL-based data analysis project for a retail sales store, featuring data cleaning, transformation, and business insights extraction
 
 ## Project Overview
 This project analyzes sales data to uncover valuable business insights, including:
