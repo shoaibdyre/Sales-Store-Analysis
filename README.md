@@ -59,18 +59,6 @@ Installation & Setup
 10. Gender-Based Preferences: Identified product preferences by gender for personalized advertising.
 
 
-## Future Enhancements
-
--Create visualizations using Power BI/Tableau
-
--Implement automated ETL pipeline
-
--Add predictive analysis for sales forecasting
-
--Develop customer segmentation models
-
--Create real-time sales dashboard
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
